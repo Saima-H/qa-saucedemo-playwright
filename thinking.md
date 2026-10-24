@@ -1,4 +1,4 @@
-\# QA Thinking: Exam Results Application
+# QA Thinking: Exam Results Application
 
 
 
